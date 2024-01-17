@@ -51,6 +51,13 @@ header {
   height: 2px;
 }
 
+.form {
+  display: grid;
+  row-gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
 .card-body {
   min-height: 100px;
 }
